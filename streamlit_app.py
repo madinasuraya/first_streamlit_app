@@ -4,7 +4,7 @@ streamlit.title("My Parents New Healthy Diner")
 
 streamlit.header("Breakfast Menu")
 
-streamlit.write("""
+streamlit.text("""
 Omega 3 & Blueberry Oatmeal
 
 Kale, Spinach & Rocket Smoothie
