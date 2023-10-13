@@ -2,7 +2,7 @@ import streamlit
 
 streamlit.title("My Parents New Healthy Diner")
 
-st.markdown("# Breakfast Menu")
+steamlit.markdown("# Breakfast Menu")
 
 st.write("""
 Omega 3 & Blueberry Oatmeal
